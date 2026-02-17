@@ -13,3 +13,6 @@ Features:
 - Free Periods Displayed as '-'
 - Subject not repeated twice in same day
 
+#live demo
+https://rltimetableproject-pystx9hcvr4fbb8gvjxmgn.streamlit.app/
+
